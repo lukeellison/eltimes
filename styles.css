@@ -1,0 +1,13 @@
+body {
+	display: 'flex';
+	flex-direction: 'column';
+}
+
+.ad-block {
+	flex: 0;
+	width: 100px;
+}
+
+.pdf-block {
+	flex: 1;
+}
