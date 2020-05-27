@@ -11,6 +11,8 @@ div {
 .ad-block {
 	flex: 0;
 	width: 100px;
+	height: 100%;
+	display: flex !important;
 }
 
 .pdf-block {
